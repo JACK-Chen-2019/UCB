@@ -1,0 +1,6 @@
+*.pth
+*.npy
+*/logs/*
+*/.vscode
+*.tar
+*.pyc
