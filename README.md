@@ -152,7 +152,7 @@ This work builds upon the open-source implementations of:
 
 - [PLOP (CVPR 2021)](https://github.com/arthurdouillard/CVPR2021_PLOP)
 - [SSUL (NeurIPS 2021)](https://github.com/clovaai/SSUL)
-- [CoinSeg (CVPR 2023)](https://github.com/zkzhang98/CoinSeg)
+- [CoinSeg (ICCV 2023)](https://github.com/zkzhang98/CoinSeg)
 
 We sincerely thank the authors for their valuable contributions to the community.
 
