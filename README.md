@@ -123,8 +123,10 @@ loss = loss.mean()
 
 ---
 
-## 🇨🇳 Jittor Release
-See UCB_jittor
+## 🇨🇳 Official Jittor Version Released!
+
+An official implementation of our method using the Jittor deep learning framework is now available:  
+👉 https://github.com/JACK-Chen-2019/UCB/tree/main/UCB_jittor
 ---
 
 ## 🔓 License
