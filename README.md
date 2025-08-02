@@ -124,9 +124,7 @@ loss = loss.mean()
 ---
 
 ## 🇨🇳 Jittor Release
-
-We will release a Jittor-compatible version of the code to support the domestic deep learning framework Jittor.
-
+See UCB_jittor
 ---
 
 ## 🔓 License

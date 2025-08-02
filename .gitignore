@@ -4,3 +4,4 @@
 */.vscode
 *.tar
 *.pyc
+*.pkl

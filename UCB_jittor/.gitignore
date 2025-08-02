@@ -1,0 +1,12 @@
+*.log
+*.pth
+*.tar
+checkpoints/
+logs/
+__pycache__
+*.npy
+*.zip
+*.jpg
+*.png
+*.pt
+*.csv
